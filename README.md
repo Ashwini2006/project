@@ -1,3 +1,3 @@
 # project
-student database
+student database<br>
 collecting information about the students
